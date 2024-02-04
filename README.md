@@ -1,6 +1,5 @@
 # classic_weather_app
 
-# api de2eb7cbf31973563749fa825dc69ac7
 
 classic weather app for practice
 
